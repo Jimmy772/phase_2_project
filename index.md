@@ -1,3 +1,5 @@
+# Additional resources
+[Presention Slides](https://docs.google.com/presentation/d/1p0_cDG_QNX4qFHGw9xUdtcI05w9TCC56n6j_sxu61-Y/edit?usp=sharing)
 ```python
 import pandas as pd
 import numpy as np
